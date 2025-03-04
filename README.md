@@ -3,19 +3,16 @@
 <h2 align="center"> Hi👋, I'm Mun Young!🤗</h2>
 <h3 align="center">I am a full-stack developer who love development</h3>
 <p align="center">
-  I believe in the strength of communication and collaboration<br/>
-  hope the work I do bring good to the world<br/><br/>
+  I'm an entry-level Software Developer with experience in full-stack development, database management, and software architecture. I have a background in journalism, which enhances my communication skills when collaborating with teams and clients. I am always eager to learn new technologies and improve my development skills.<br/><br/>
 </p>
 
 <h3 align="center">🍳 Back-end Tech Stack 🍳</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/ES6-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TypeScript-005571?style=flat&logo=ts-node&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/NodeJS-11B48A?style=flat&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Express-00599C?style=flat&logo=express&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp
 </p>
 <h3 align="center">💽 DataBase Tech Stack 💽</h3>
 <p align="center">
